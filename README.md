@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+  - 🎂 17 years old
   
   - 🌱 I’m currently studying: <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
