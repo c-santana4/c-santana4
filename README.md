@@ -1,5 +1,4 @@
 ## Hi there 👋
-  - I'm really bad at describing myself
 
 ## Currently studying:
    [![My Skills](https://skillicons.dev/icons?i=svelte,cs,dotnet)](https://skillicons.dev)
